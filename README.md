@@ -13,7 +13,7 @@ This project demonstrates real-time hand tracking using MediaPipe and OpenCV. Th
 ## Screenshots
 
 ### Hand
-![Hand](images/1.png)
+![Hand](1.png)
 
 ## Requirements
 
