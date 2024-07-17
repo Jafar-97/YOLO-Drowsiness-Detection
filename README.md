@@ -27,7 +27,7 @@ This project demonstrates real-time hand tracking using MediaPipe and OpenCV. Th
 
 1. Clone this repository:
     ```sh
-    git clone https://github.com/your_username/hand-tracking-mediapipe.git
+    https://github.com/Jafar-97/YOLO-Drowsiness-Detection.git
     cd hand-tracking-mediapipe
     ```
 
